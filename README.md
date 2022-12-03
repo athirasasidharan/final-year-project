@@ -1,4 +1,4 @@
-# final-year-project
+# Final-year-project
 COMPARATIVE STUDY OF SKIN – CANCER DETECTION
 
 Objective - We intend to develop a computer aided system that would detect the melanoma using
